@@ -1,4 +1,4 @@
-#Web Development Practice Project
+# Web Development Practice Project
 This repository contains a web development practice project. The project demonstrates the use of HTML, CSS, JavaScript, and various web development techniques. It is intended for learning purposes and to showcase skills in front-end (and possibly back-end) development.
 
 Table of Contents
